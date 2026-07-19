@@ -1,2 +1,3 @@
 # FORISFACTUS
-FORISFACTUS IS A GOV PROJECT THAT DEALS WITH HIGH-POWER INMATES. THE GOAL OF THE CORRECTIONAL SYSTEM IS TO REFORM NOT TO DESTROY THE HUMAN ELEMENT.
+A gov project that deals with high-power inmates. 
+The goal of correctional systems abroad is to transform not to destroy the human element
